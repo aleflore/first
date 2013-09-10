@@ -1,0 +1,4 @@
+Paint works by drawing an object to a set graphics area using set or entered coordinates .
+The if statement is selecting which action to execute.
+The figure x,y,width,height relate to the paint methof by giving the coordinates of where to draw the object. x,y,width, height are set to 50 initially and changed once the mouse enters the area.
+The ButtonHandler and MouseHandler classes reset the x,y,width, height coordinates once they enter the graphics, which ComputeFigure then uses to display the area,perimeter,top left and right and centerpoints of the object.
