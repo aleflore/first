@@ -1,4 +1,20 @@
 body
 {
-background-image:url('dontgiveafuck.png');
+background-image:url('dontgiveafuck.jpg');
+}
+h2
+{
+color:white;
+}
+p
+{
+font-family:Arial, Helvetica, sans-serif;
+}
+p.oblique
+{
+font-style:oblique;
+}
+ul.a
+{
+list-style-type:square;
 }
